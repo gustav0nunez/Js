@@ -1,4 +1,4 @@
-import {calcularAreaRectangulo} from "./Calculos.js";
+import calcularAreaRectangulo from "./Calculos.js";
 
 let ancho = parseInt(prompt("Ingrese ancho"));
 let lado = parseInt(prompt("Ingrese lado"));
